@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Nihalghori/Resume-maker.git/static/css/main.a979ee90.css",
-    "main.js": "/Nihalghori/Resume-maker.git/static/js/main.3b0072f6.js",
-    "static/js/703.01d64037.chunk.js": "/Nihalghori/Resume-maker.git/static/js/703.01d64037.chunk.js",
-    "static/js/379.5e02ab29.chunk.js": "/Nihalghori/Resume-maker.git/static/js/379.5e02ab29.chunk.js",
-    "static/js/787.848f6092.chunk.js": "/Nihalghori/Resume-maker.git/static/js/787.848f6092.chunk.js",
-    "static/media/images-removebg-preview.png": "/Nihalghori/Resume-maker.git/static/media/images-removebg-preview.3c2c22a7bc67cacbf18d.png",
-    "index.html": "/Nihalghori/Resume-maker.git/index.html",
-    "main.a979ee90.css.map": "/Nihalghori/Resume-maker.git/static/css/main.a979ee90.css.map",
-    "main.3b0072f6.js.map": "/Nihalghori/Resume-maker.git/static/js/main.3b0072f6.js.map",
-    "703.01d64037.chunk.js.map": "/Nihalghori/Resume-maker.git/static/js/703.01d64037.chunk.js.map",
-    "379.5e02ab29.chunk.js.map": "/Nihalghori/Resume-maker.git/static/js/379.5e02ab29.chunk.js.map",
-    "787.848f6092.chunk.js.map": "/Nihalghori/Resume-maker.git/static/js/787.848f6092.chunk.js.map"
+    "main.css": "/Nihalghori/Resume-maker/static/css/main.a979ee90.css",
+    "main.js": "/Nihalghori/Resume-maker/static/js/main.e94e718c.js",
+    "static/js/703.01d64037.chunk.js": "/Nihalghori/Resume-maker/static/js/703.01d64037.chunk.js",
+    "static/js/379.5e02ab29.chunk.js": "/Nihalghori/Resume-maker/static/js/379.5e02ab29.chunk.js",
+    "static/js/787.848f6092.chunk.js": "/Nihalghori/Resume-maker/static/js/787.848f6092.chunk.js",
+    "static/media/images-removebg-preview.png": "/Nihalghori/Resume-maker/static/media/images-removebg-preview.3c2c22a7bc67cacbf18d.png",
+    "index.html": "/Nihalghori/Resume-maker/index.html",
+    "main.a979ee90.css.map": "/Nihalghori/Resume-maker/static/css/main.a979ee90.css.map",
+    "main.e94e718c.js.map": "/Nihalghori/Resume-maker/static/js/main.e94e718c.js.map",
+    "703.01d64037.chunk.js.map": "/Nihalghori/Resume-maker/static/js/703.01d64037.chunk.js.map",
+    "379.5e02ab29.chunk.js.map": "/Nihalghori/Resume-maker/static/js/379.5e02ab29.chunk.js.map",
+    "787.848f6092.chunk.js.map": "/Nihalghori/Resume-maker/static/js/787.848f6092.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a979ee90.css",
-    "static/js/main.3b0072f6.js"
+    "static/js/main.e94e718c.js"
   ]
 }
